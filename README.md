@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mohammad Qandeel
 
 ## About Me
-I'm a passionate **Software Developer** from Zarqa, Jordan, currently pursuing a Bachelor's in Computer Science at The Hashemite University. I specialize in **Java backend development** and enjoy building scalable, secure, and innovative web applications. I'm deeply interested in solving complex problems and continuously improving my skills.
+I'm a passionate **Software Developer**. I specialize in **Java backend development** and enjoy building scalable, secure, and innovative web applications. I'm deeply interested in solving complex problems and continuously improving my skills.
 
 ## Technical Skills
 - **Programming:** Java SE, OOP, Spring Boot, MVC, REST APIs, Spring Security, SOLID Principles
