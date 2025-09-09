@@ -14,8 +14,6 @@ I'm a passionate **Software Developer** from Zarqa, Jordan, currently pursuing a
 
 ![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=M0hammedAlhaj&show_icons=true&theme=transparent)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=M0hammedAlhaj&layout=compact&theme=transparent)
-
 ## Streak Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=M0hammedAlhaj)
