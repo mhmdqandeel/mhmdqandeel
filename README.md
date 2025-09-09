@@ -10,13 +10,6 @@ I'm a passionate **Software Developer** from Zarqa, Jordan, currently pursuing a
 - **Tools:** Git/GitHub, IntelliJ, Postman
 - **Problem Solving:** Data Structures & Algorithms
 
-## Education
-- **The Hashemite University** - Bachelor's in Computer Science *(Oct 2022 – Present)*
-
-## Courses & Certifications
-- Spring Boot 3, Spring 6 & Hibernate for Beginners (Udemy, 2025)
-- Java Data Structures & Algorithms (Udemy, 2025)
-
 ## Projects
 
 ### 🚀 TechPractice: Collaborative Learning Platform (Graduation Project)
