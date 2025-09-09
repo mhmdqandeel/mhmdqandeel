@@ -16,7 +16,7 @@ I'm a passionate **Software Developer**. I specialize in **Java backend developm
 
 ## Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=M0hammedAlhaj)
+![GitHub Streak](https://streak-stats.demolab.com/?user=mhmdqandeel)
 
 ## Projects
 
