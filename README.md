@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohammad Qandeel
 
-<!--
-**mhmdqandeel/mhmdqandeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate **Software Developer** from Zarqa, Jordan, currently pursuing a Bachelor's in Computer Science at The Hashemite University. I specialize in **Java backend development** and enjoy building scalable, secure, and innovative web applications. I'm deeply interested in solving complex problems and continuously improving my skills.
 
-Here are some ideas to get you started:
+## Technical Skills
+- **Programming:** Java SE, OOP, Spring Boot, MVC, REST APIs, Spring Security, SOLID Principles
+- **Database:** SQL, JPA/Hibernate, MySQL, PostgreSQL
+- **Web Development:** HTML, CSS, JavaScript
+- **Tools:** Git/GitHub, IntelliJ, Postman
+- **Problem Solving:** Data Structures & Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+- **The Hashemite University** - Bachelor's in Computer Science *(Oct 2022 – Present)*
+
+## Courses & Certifications
+- Spring Boot 3, Spring 6 & Hibernate for Beginners (Udemy, 2025)
+- Java Data Structures & Algorithms (Udemy, 2025)
+
+## Projects
+
+### 🚀 TechPractice: Collaborative Learning Platform (Graduation Project)
+*Jan 2025 – Present*
+- Developed backend services using **Java Spring Boot** with secure user auth (OTP & JWT).
+- Implemented session management and full CRUD operations for users, sessions, and skills.
+- Applied role-based access control and RESTful API design for scalability.
+
+## Volunteer Experience
+- **Activities/PR Team Member** at Aïdea HU *(Mar 2024 – May 2025)*  
+  Organized events and led initiatives to enhance student engagement and community spirit.
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhmdaandeel&show_icons=true)
+
+## Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/mohammad-aandeel-692438288)
+- [Email](mailto:mohaqan2004@gmail.com)
