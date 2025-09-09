@@ -12,7 +12,7 @@ I'm a passionate **Software Developer**. I specialize in **Java backend developm
 
 ## GitHub Stats
 
-![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=M0hammedAlhaj&show_icons=true&theme=transparent)
+![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhmdqandeel&show_icons=true&theme=transparent)
 
 ## Streak Stats
 
