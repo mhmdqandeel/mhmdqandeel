@@ -14,9 +14,6 @@ I'm a passionate **Software Developer**. I specialize in **Java backend developm
 
 ![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhmdqandeel&show_icons=true&theme=transparent)
 
-## Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=mhmdqandeel)
 
 ## Projects
 
