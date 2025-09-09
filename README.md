@@ -22,6 +22,9 @@ I'm a passionate **Software Developer** from Zarqa, Jordan, currently pursuing a
 - **Activities/PR Team Member** at Aïdea HU *(Mar 2024 – May 2025)*  
   Organized events and led initiatives to enhance student engagement and community spirit.
 
+## GitHub Stats
+![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=M0hammedAlhaj&show_icons=true&theme=radical)
+
 ## Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/mohammad-aandeel-692438288)
 - [Email](mailto:mohaqan2004@gmail.com)
